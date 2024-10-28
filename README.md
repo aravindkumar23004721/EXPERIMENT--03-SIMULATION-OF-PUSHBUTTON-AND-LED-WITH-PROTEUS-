@@ -69,10 +69,10 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
-### NAME : A.JEEVITH
-### REG NO : 212223240059
+### NAME : Aravind kumar SS
+### REG NO : 212223110004
 
-## STM 32 CUBE PROGRAM :
+### STM 32 CUBE PROGRAM :
 ```
 #include "main.h"
 #include <stdbool.h>
